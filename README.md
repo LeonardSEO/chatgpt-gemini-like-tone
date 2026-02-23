@@ -136,29 +136,13 @@ Many users describe a preference for a style that feels:
 
 This repo is a small, practical answer to that preference, using only built-in ChatGPT settings plus Custom Instructions.
 
-## Visual Examples (WIP)
+## Visual Examples
 
-This section documents the visual examples used to show the setup and the effect of the `V1` configuration.
+These screenshots show the `V1` setup and the tone shift in practice.
 
-Current status:
+### 1) Personality / Settings
 
-- `After` example screenshot: received in chat, not yet added as repo file
-- `Before` example screenshot: received in chat, not yet added as repo file
-- ChatGPT personality/settings screenshot: received in chat, not yet added as repo file
-
-To make the images render on GitHub, add the PNG files to the `assets/` folder using the filenames listed below.
-
-Suggested filenames:
-
-- `assets/personality-settings-candid-v1.png`
-- `assets/before-chatgpt-v1-comparison-example.png`
-- `assets/after-chatgpt-with-v1-example.png`
-
-Sections:
-
-### 1) Personality / Settings Screenshot (Received)
-
-The settings screenshot confirms the `V1` direction and shows:
+The settings screenshot shows the configuration direction used for this repo:
 
 - `Base style and tone`: `Candid`
 - `Warm`: `Less`
@@ -171,13 +155,9 @@ Note:
 - In the screenshot, `Headers & Lists` is set to `Default`.
 - In this README, the recommended `V1` setup still uses `Headers & Lists = Less` to reduce over-structuring on simple prompts.
 
-Recommended filename for the image you shared:
-
-- `assets/personality-settings-candid-v1.png`
-
 ![ChatGPT personality settings for V1](assets/personality-settings-candid-v1.png)
 
-### 2) Before: ChatGPT (Pre-V1) Example (Received)
+### 2) Before: ChatGPT (Pre-V1)
 
 The `Before` screenshot shows a more verbose, over-structured answer to the same car-wash example, including:
 
@@ -186,13 +166,9 @@ The `Before` screenshot shows a more verbose, over-structured answer to the same
 - stronger coaching / optimization framing
 - emoji and visual emphasis that can feel more performative
 
-Recommended filename for the image you shared:
-
-- `assets/before-chatgpt-v1-comparison-example.png`
-
 ![Before: ChatGPT response before applying V1 tone setup](assets/before-chatgpt-v1-comparison-example.png)
 
-### 3) After: ChatGPT with V1 Instructions (Received)
+### 3) After: ChatGPT with V1 Instructions
 
 The `After` screenshot shows a direct, task-aligned answer to the car-wash example, with:
 
@@ -208,10 +184,6 @@ Observed tone characteristics in the screenshot:
 - no persona intro
 - no moralizing / behavior coaching
 - no scripted closing prompt
-
-Recommended filename for the image you shared:
-
-- `assets/after-chatgpt-with-v1-example.png`
 
 ![After: ChatGPT with V1 Gemini-like tone setup](assets/after-chatgpt-with-v1-example.png)
 
