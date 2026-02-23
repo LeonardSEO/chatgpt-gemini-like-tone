@@ -142,9 +142,11 @@ This section documents the visual examples used to show the setup and the effect
 
 Current status:
 
-- `After` example screenshot: received
-- `Before` example screenshot: received
-- ChatGPT personality/settings screenshot: received
+- `After` example screenshot: received in chat, not yet added as repo file
+- `Before` example screenshot: received in chat, not yet added as repo file
+- ChatGPT personality/settings screenshot: received in chat, not yet added as repo file
+
+To make the images render on GitHub, add the PNG files to the `assets/` folder using the filenames listed below.
 
 Suggested filenames:
 
@@ -173,11 +175,7 @@ Recommended filename for the image you shared:
 
 - `assets/personality-settings-candid-v1.png`
 
-Example markdown to enable later:
-
-```md
 ![ChatGPT personality settings for V1](assets/personality-settings-candid-v1.png)
-```
 
 ### 2) Before: ChatGPT (Pre-V1) Example (Received)
 
@@ -192,11 +190,7 @@ Recommended filename for the image you shared:
 
 - `assets/before-chatgpt-v1-comparison-example.png`
 
-Example markdown:
-
-```md
 ![Before: ChatGPT response before applying V1 tone setup](assets/before-chatgpt-v1-comparison-example.png)
-```
 
 ### 3) After: ChatGPT with V1 Instructions (Received)
 
@@ -219,11 +213,7 @@ Recommended filename for the image you shared:
 
 - `assets/after-chatgpt-with-v1-example.png`
 
-Example markdown:
-
-```md
 ![After: ChatGPT with V1 Gemini-like tone setup](assets/after-chatgpt-with-v1-example.png)
-```
 
 ## Scope and Limitations
 
